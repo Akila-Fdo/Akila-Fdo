@@ -15,6 +15,10 @@
 
 <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 15px; padding: 20px; border: 2px solid #00D8FF;">
 
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
 ### 🚀 My Journey
 
 <p align="justify" style="font-size: 16px; line-height: 1.6; color: #c9d1d9;">
@@ -30,17 +34,25 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 - 🌱 <strong>Currently learning</strong> Machine Learning
 - ✉️ <strong>Reach me at</strong> [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
 
+</td>
+<td width="40%" valign="top" align="center">
+
+<div style="border: 3px solid #00D8FF; border-radius: 15px; padding: 10px; background: rgba(0, 216, 255, 0.05); box-shadow: 0 0 20px rgba(0, 216, 255, 0.3);">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280" alt="Coding Animation" style="border-radius: 10px;" />
+</div>
+
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280" alt="Coding Animation" style="border-radius: 10px; margin-bottom: 15px;" />
-
-  <div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 10px; display: inline-block;">
-    <h4 style="color: #0d1117; margin: 0; font-weight: bold;">Dream • Design • Develop</h4>
-  </div>
+<div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 10px; display: inline-block;">
+  <h4 style="color: #0d1117; margin: 0; font-weight: bold;">Dream • Design • Develop</h4>
 </div>
 
+</td>
+</tr>
+</table>
+
 </div>
+
 
 
 
