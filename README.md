@@ -45,7 +45,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 👥 **Member** of the [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> **FOSS Community – UOK**](https://fossuok.org)
 
-📧 **Reach me at** [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
+✉️ **Reach me at** [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
 
 </div>
 
@@ -65,7 +65,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
   <br>
   
   <div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 15px; margin: 10px 0;">
-    <h4 style="color: #0d1117; margin: 0; font-weight: bold;">💻 Code • Create • Innovate</h4>
+    <h4 style="color: #0d1117; margin: 0; font-weight: bold;"> Dream • Design • Develop</h4>
   </div>
 </div>
 
