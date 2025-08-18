@@ -197,17 +197,22 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ## 🤝 Connect with Me
 
-<div align="center" style="margin: 30px 0;">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+<div align="center">
+
+  <a href="https://linkedin.com/in/akila-fernando" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtube.com/@akilafernando9624" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="50" height="50"/>
   </a>
-  <a href="mailto:akilafernando196@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akilafernando196@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50"/>
   </a>
+
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=📬+Let's+Connect+and+Collaborate!;💼+Open+to+New+Opportunities" alt="Connect Animation" />
