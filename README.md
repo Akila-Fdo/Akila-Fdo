@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Akila Fernando!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovation+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+and+Tech+Enthusiast;Aspiring+Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,30 +13,37 @@
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "Java", "TypeScript", "Go"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Nest.js"],
-            python: ["Django", "Flask", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
-        },
-        devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
-        tools: ["Git", "Webpack", "Vite", "Jest", "Cypress"]
-    },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
+<div align="center">
+  <h3>💫 Passionate Tech Enthusiast & Problem Solver</h3>
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Passionate about leveraging computer science and modern technologies to create solutions that address real-world challenges. I enjoy problem-solving, experimenting with new tools, and constantly expanding my knowledge to adapt in the ever-evolving world of technology.
+
+### 📌 Quick Facts
+
+🎓 **Computer Science undergraduate** at the [University of Kelaniya](https://www.kln.ac.lk)  
+🌱 **Currently learning** Machine Learning  
+👥 **Member** of the [FOSS Community – UOK](https://fossuok.org)  
+📧 **Reach me at** akilafernando196@gmail.com  
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Solutions+Today;Always+Learning%2C+Always+Growing;Code+%7C+Create+%7C+Innovate" alt="Typing Animation" />
+</div>
 
 ---
 
