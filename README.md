@@ -39,19 +39,17 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 <div style="background: rgba(0, 216, 255, 0.1); border-left: 4px solid #00D8FF; padding: 15px; border-radius: 8px; margin: 10px 0;">
 
-🎓 **Computer Science undergraduate** at the [<img src="https://img.shields.io/badge/University%20of%20Kelaniya-0077B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=&logoColor=white">](https://www.kln.ac.lk)
+🎓 **Computer Science undergraduate** at the [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> **University of Kelaniya**](https://www.kln.ac.lk)
 
-🌱 **Currently learning** <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"> 
+🌱 **Currently learning** Machine Learning
 
-👥 **Member** of the [<img src="https://img.shields.io/badge/FOSS%20Community%20UOK-28A745?style=flat&logo=opensource&logoColor=white">](https://fossuok.org)
+👥 **Member** of the [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> **FOSS Community – UOK**](https://fossuok.org)
 
-📧 **Reach me at** [<img src="https://img.shields.io/badge/akilafernando196@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">](mailto:akilafernando196@gmail.com)
+📧 **Reach me at** [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
 
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/💡-Always%20Learning-00D8FF?style=for-the-badge&labelColor=0d1117" alt="Always Learning" />
-  <img src="https://img.shields.io/badge/🚀-Problem%20Solver-00D8FF?style=for-the-badge&labelColor=0d1117" alt="Problem Solver" />
 </div>
 
 </div>
@@ -68,10 +66,6 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
   
   <div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 15px; margin: 10px 0;">
     <h4 style="color: #0d1117; margin: 0; font-weight: bold;">💻 Code • Create • Innovate</h4>
-  </div>
-  
-  <div align="center" style="margin-top: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide=stars,issues&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117&custom_title=Quick%20Stats" width="280" alt="Quick Stats" />
   </div>
 </div>
 
