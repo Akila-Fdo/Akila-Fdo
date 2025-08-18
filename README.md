@@ -76,12 +76,12 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Fdo&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" alt="GitHub Streak" />
 </div>
 
 ---
