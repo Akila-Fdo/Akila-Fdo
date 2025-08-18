@@ -30,10 +30,17 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 ### 📌 Quick Facts
 
 - 🎓 **Computer Science undergraduate at**<br>
-  [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> University of Kelaniya](https://www.kln.ac.lk)
-- 👥 <strong>Member</strong> of [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> FOSS Community – UOK](https://fossuok.org)
-- 🌱 <strong>Currently learning</strong> Machine Learning
-- ✉️ <strong>Reach me at</strong> [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
+  <a href="https://www.kln.ac.lk">
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> University of Kelaniya
+  </a>
+
+  <br>  
+- 👥 <a href="https://fossuok.org">
+    <img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> Member of FOSS Community – UOK
+  </a>
+- 🌱 **Currently learning** Machine Learning.
+- ✉️ **Reach me at** [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
+
 
 </td>
 <td width="40%" valign="top" align="center">
