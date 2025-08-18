@@ -14,35 +14,77 @@
 ## 🚀 About Me
 
 <div align="center">
-  <h3>💫 Passionate Tech Enthusiast & Problem Solver</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=💫+Passionate+Tech+Enthusiast+%26+Problem+Solver;🔥+Building+Tomorrow's+Solutions+Today" alt="About Me Title" />
 </div>
+
+<br>
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 15px; padding: 20px; border: 2px solid #00D8FF;">
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-Passionate about leveraging computer science and modern technologies to create solutions that address real-world challenges. I enjoy problem-solving, experimenting with new tools, and constantly expanding my knowledge to adapt in the ever-evolving world of technology.
+<div style="padding-right: 20px;">
+
+### 🌟 My Journey
+
+<p align="justify" style="font-size: 16px; line-height: 1.6; color: #c9d1d9;">
+Passionate about leveraging <strong style="color: #00D8FF;">computer science</strong> and modern technologies to create solutions that address real-world challenges. I enjoy <strong style="color: #00D8FF;">problem-solving</strong>, experimenting with new tools, and constantly expanding my knowledge to adapt in the ever-evolving world of technology.
+</p>
+
+<br>
 
 ### 📌 Quick Facts
 
-🎓 **Computer Science undergraduate** at the [University of Kelaniya](https://www.kln.ac.lk)  
-🌱 **Currently learning** Machine Learning  
-👥 **Member** of the [FOSS Community – UOK](https://fossuok.org)  
-📧 **Reach me at** akilafernando196@gmail.com  
+<div style="background: rgba(0, 216, 255, 0.1); border-left: 4px solid #00D8FF; padding: 15px; border-radius: 8px; margin: 10px 0;">
+
+🎓 **Computer Science undergraduate** at the [<img src="https://img.shields.io/badge/University%20of%20Kelaniya-0077B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=&logoColor=white">](https://www.kln.ac.lk)
+
+🌱 **Currently learning** <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"> 
+
+👥 **Member** of the [<img src="https://img.shields.io/badge/FOSS%20Community%20UOK-28A745?style=flat&logo=opensource&logoColor=white">](https://fossuok.org)
+
+📧 **Reach me at** [<img src="https://img.shields.io/badge/akilafernando196@gmail.com-D14836?style=flat&logo=gmail&logoColor=white">](mailto:akilafernando196@gmail.com)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/💡-Always%20Learning-00D8FF?style=for-the-badge&labelColor=0d1117" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/🚀-Problem%20Solver-00D8FF?style=for-the-badge&labelColor=0d1117" alt="Problem Solver" />
+</div>
+
+</div>
 
 </td>
 <td width="40%" valign="top">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+<div align="center" style="padding: 20px;">
+  <div style="border: 3px solid #00D8FF; border-radius: 15px; padding: 10px; background: rgba(0, 216, 255, 0.05); box-shadow: 0 0 20px rgba(0, 216, 255, 0.3);">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" style="border-radius: 10px;" />
+  </div>
+  
+  <br>
+  
+  <div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 15px; margin: 10px 0;">
+    <h4 style="color: #0d1117; margin: 0; font-weight: bold;">💻 Code • Create • Innovate</h4>
+  </div>
+  
+  <div align="center" style="margin-top: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide=stars,issues&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117&custom_title=Quick%20Stats" width="280" alt="Quick Stats" />
+  </div>
 </div>
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Solutions+Today;Always+Learning%2C+Always+Growing;Code+%7C+Create+%7C+Innovate" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=🔥+Building+Tomorrow's+Solutions+Today;⚡+Always+Learning%2C+Always+Growing;🎯+Code+%7C+Create+%7C+Innovate;🌟+Turning+Ideas+Into+Reality" alt="Typing Animation" />
 </div>
 
 ---
