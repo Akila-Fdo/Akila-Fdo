@@ -144,34 +144,23 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 <!-- Streak Stats Card -->
 <div align="center">
-<div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px; position: relative;">
-<h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🔥 Contribution Streak</h4>
-
-<!-- Custom Overlay with Vertical Separators -->
-<div style="position: relative; width: 100%;">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=00000000&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&border_radius=10" alt="GitHub Streak" />
-  
-  <!-- Vertical Line 1 (Between Total Contributions and Current Streak) -->
-  <div style="position: absolute; top: 15%; left: 33.33%; width: 2px; height: 70%; background: linear-gradient(to bottom, transparent, #00D8FF, transparent); opacity: 0.6;"></div>
-  
-  <!-- Vertical Line 2 (Between Current Streak and Longest Streak) -->
-  <div style="position: absolute; top: 15%; left: 66.67%; width: 2px; height: 70%; background: linear-gradient(to bottom, transparent, #00D8FF, transparent); opacity: 0.6;"></div>
-</div>
-</div>
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🔥 Contribution Streak</h4>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=00000000&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&border_radius=10" alt="GitHub Streak" />
+  </div>
 </div>
 
-<!-- Horizontal Separator Line -->
-<div align="center" style="margin: 30px 0;">
-  <div style="width: 80%; height: 2px; background: linear-gradient(to right, transparent, #00D8FF, transparent); opacity: 0.8; border-radius: 1px;"></div>
-</div>
+<br>
 
 <!-- Trophies Card -->
 <div align="center">
-<div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
-<h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🏆 GitHub Achievements</h4>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🏆 GitHub Achievements</h4>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
+  </div>
 </div>
-</div>
+
+<br>
 
 <!-- Activity Graph Card -->
 <div align="center">
