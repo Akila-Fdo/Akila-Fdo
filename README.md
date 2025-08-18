@@ -192,7 +192,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
----
+
 
 
 ## 🤝 Connect with Me
