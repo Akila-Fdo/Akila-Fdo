@@ -13,17 +13,7 @@
 
 ## 👨‍💻 About Me
 
-
-
-<br>
-
 <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 15px; padding: 20px; border: 2px solid #00D8FF;">
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<div style="padding-right: 20px;">
 
 ### 🚀 My Journey
 
@@ -35,47 +25,23 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ### 📌 Quick Facts
 
-<div style="background: rgba(0, 216, 255, 0.1); border-left: 4px solid #00D8FF; padding: 15px; border-radius: 8px; margin: 10px 0;">
-
-🎓 **Computer Science undergraduate** at the [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> **University of Kelaniya**](https://www.kln.ac.lk)
-
-
-
-👥 **Member** of the [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> **FOSS Community – UOK**](https://fossuok.org)
-
-🌱 **Currently learning** Machine Learning
-
-✉️ **Reach me at** [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-</div>
-
-</div>
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center" style="padding: 20px;">
-  <div style="border: 3px solid #00D8FF; border-radius: 15px; padding: 10px; background: rgba(0, 216, 255, 0.05); box-shadow: 0 0 20px rgba(0, 216, 255, 0.3);">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280" alt="Coding Animation" style="border-radius: 10px;" />
-  </div>
-  
-  <br>
-  
-  <div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 15px; margin: 10px 0;">
-    <h4 style="color: #0d1117; margin: 0; font-weight: bold;"> Dream • Design • Develop</h4>
-  </div>
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
+- 🎓 <strong>Computer Science undergraduate</strong> at [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> University of Kelaniya](https://www.kln.ac.lk)
+- 👥 <strong>Member</strong> of [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> FOSS Community – UOK](https://fossuok.org)
+- 🌱 <strong>Currently learning</strong> Machine Learning
+- ✉️ <strong>Reach me at</strong> [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
 
 <br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280" alt="Coding Animation" style="border-radius: 10px; margin-bottom: 15px;" />
+
+  <div style="background: linear-gradient(45deg, #00D8FF, #0099CC); border-radius: 10px; padding: 10px; display: inline-block;">
+    <h4 style="color: #0d1117; margin: 0; font-weight: bold;">Dream • Design • Develop</h4>
+  </div>
+</div>
+
+</div>
+
 
 
 
