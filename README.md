@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Akila Fernando!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Innovation+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -89,7 +89,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ const developer = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akila-Fdo&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -113,7 +113,7 @@ const developer = {
 ## 🎯 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Akila-Fdo&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ---
@@ -129,19 +129,19 @@ const developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/Akila-Fdo/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="https://github.com/Akila-Fdo/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 2" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername/project3">
+  <a href="https://github.com/Akila-Fdo/project3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 3" />
   </a>
-  <a href="https://github.com/yourusername/project4">
+  <a href="https://github.com/Akila-Fdo/project4">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 4" />
   </a>
 </div>
