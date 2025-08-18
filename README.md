@@ -29,7 +29,8 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ### 📌 Quick Facts
 
-- 🎓 <strong>Computer Science undergraduate</strong> at [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> University of Kelaniya](https://www.kln.ac.lk)
+- 🎓 **Computer Science undergraduate at**<br>
+  [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> University of Kelaniya](https://www.kln.ac.lk)
 - 👥 <strong>Member</strong> of [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> FOSS Community – UOK](https://fossuok.org)
 - 🌱 <strong>Currently learning</strong> Machine Learning
 - ✉️ <strong>Reach me at</strong> [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
