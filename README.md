@@ -177,13 +177,6 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akila-Fdo&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D8FF" alt="WakaTime Stats" />
-</div>
-
----
 
 ## 🎯 Top Contributed Repositories
 
@@ -193,7 +186,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ---
 
-## 💡 Random Dev Quote
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
@@ -201,27 +194,6 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Akila-Fdo/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Akila-Fdo/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 2" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Akila-Fdo/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 3" />
-  </a>
-  <a href="https://github.com/Akila-Fdo/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF" alt="Project 4" />
-  </a>
-</div>
-
----
 
 ## 🤝 Connect with Me
 
@@ -243,29 +215,9 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
   </a>
 </div>
 
----
 
-## 🎵 Spotify Playing
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
-</div>
 
----
-
-## ☕ Support My Work
-
-<div align="center">
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://paypal.me/yourusername">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-</div>
 
 ---
 
@@ -279,8 +231,4 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="GitHub stars" />
-</p>
+
