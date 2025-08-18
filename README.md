@@ -83,11 +83,46 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=💻+Technologies+I+Work+With;🚀+Building+Modern+Solutions" alt="Tech Stack Title" />
+</div>
+
+<br>
+
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,python,java,go,docker,kubernetes,aws,mongodb,postgresql,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,js,ts,php,python,kotlin&theme=dark" />
 </p>
 
+### Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" />
+</p>
 
+### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,express,dotnet&theme=dark" />
+</p>
+
+### Data Science & Analytics
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" style="margin: 0 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" style="margin: 0 4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" style="margin: 0 4px;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" style="margin: 0 4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" style="margin: 0 4px;"/>
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" style="margin: 0 4px;"/>
+</p>
+
+### Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,git&theme=dark" />
+</p>
 
 ---
 
