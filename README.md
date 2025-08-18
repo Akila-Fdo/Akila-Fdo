@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Akila Fernando!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+and+Tech+Enthusiast;Aspiring+Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;AI+and+Tech+Enthusiast;Aspiring+Full+Stack+Developer;Always+Learning+Always+Growing!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,13 +9,11 @@
   <img src="https://img.shields.io/github/followers/Akila-Fdo?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
----
 
-## 🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=💫+Passionate+Tech+Enthusiast+%26+Problem+Solver;🔥+Building+Tomorrow's+Solutions+Today" alt="About Me Title" />
-</div>
+## 👨‍💻 About Me
+
+
 
 <br>
 
@@ -27,10 +25,10 @@
 
 <div style="padding-right: 20px;">
 
-### 🌟 My Journey
+### 🚀 My Journey
 
 <p align="justify" style="font-size: 16px; line-height: 1.6; color: #c9d1d9;">
-Passionate about leveraging <strong style="color: #00D8FF;">computer science</strong> and modern technologies to create solutions that address real-world challenges. I enjoy <strong style="color: #00D8FF;">problem-solving</strong>, experimenting with new tools, and constantly expanding my knowledge to adapt in the ever-evolving world of technology.
+Passionate about leveraging <strong style="color: #00D8FF;">computer science</strong> and modern technologies to create solutions that address real-world challenges. I enjoy <strong style="color: #00D8FF;">problem-solving</strong>, experimenting with new tools and constantly expanding my knowledge to adapt in the ever-evolving world of technology.
 </p>
 
 <br>
@@ -41,9 +39,11 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 🎓 **Computer Science undergraduate** at the [<img src="https://upload.wikimedia.org/wikipedia/en/e/e0/Kelaniya.png" width="20" height="20" style="vertical-align: middle;"> **University of Kelaniya**](https://www.kln.ac.lk)
 
-🌱 **Currently learning** Machine Learning
+
 
 👥 **Member** of the [<img src="https://fossuok.org/FOSS.webp" width="20" height="20" style="vertical-align: middle;"> **FOSS Community – UOK**](https://fossuok.org)
+
+🌱 **Currently learning** Machine Learning
 
 ✉️ **Reach me at** [akilafernando196@gmail.com](mailto:akilafernando196@gmail.com)
 
@@ -59,7 +59,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 <div align="center" style="padding: 20px;">
   <div style="border: 3px solid #00D8FF; border-radius: 15px; padding: 10px; background: rgba(0, 216, 255, 0.05); box-shadow: 0 0 20px rgba(0, 216, 255, 0.3);">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" style="border-radius: 10px;" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280" alt="Coding Animation" style="border-radius: 10px;" />
   </div>
   
   <br>
@@ -77,9 +77,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=🔥+Building+Tomorrow's+Solutions+Today;⚡+Always+Learning%2C+Always+Growing;🎯+Code+%7C+Create+%7C+Innovate;🌟+Turning+Ideas+Into+Reality" alt="Typing Animation" />
-</div>
+
 
 ---
 
