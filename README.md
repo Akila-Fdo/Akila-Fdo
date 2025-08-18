@@ -105,7 +105,7 @@ const developer = {
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D8FF" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akila-Fdo&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00D8FF" alt="WakaTime Stats" />
 </div>
 
 ---
