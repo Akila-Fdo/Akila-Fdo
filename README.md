@@ -114,31 +114,61 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Fdo&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Analytics;🚀+Coding+Journey+Stats" alt="GitHub Stats Title" />
 </div>
 
+<br>
+
+<div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); border-radius: 20px; padding: 25px; border: 2px solid #00D8FF; box-shadow: 0 8px 32px rgba(0, 216, 255, 0.3);">
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <div style="background: rgba(0, 216, 255, 0.05); border-radius: 15px; padding: 10px; margin: 5px;">
+          <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
+        </div>
+      </td>
+      <td>
+        <div style="background: rgba(0, 216, 255, 0.05); border-radius: 15px; padding: 10px; margin: 5px;">
+          <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Fdo&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8" alt="Top Languages" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <div style="background: rgba(0, 216, 255, 0.05); border-radius: 15px; padding: 15px; margin: 10px;">
+    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&border_radius=15" alt="GitHub Streak" />
+  </div>
 </div>
 
----
-
-## 📈 Activity Graph
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akila-Fdo&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <h3 style="color: #00D8FF; margin: 20px 0 10px 0;">🏆 Achievement Showcase</h3>
+  <div style="background: rgba(0, 216, 255, 0.05); border-radius: 15px; padding: 15px; margin: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <h3 style="color: #00D8FF; margin: 20px 0 10px 0;">📈 Contribution Activity</h3>
+  <div style="background: rgba(0, 216, 255, 0.05); border-radius: 15px; padding: 15px; margin: 10px;">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akila-Fdo&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true&border_radius=15" alt="Activity Graph" />
+  </div>
+</div>
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=💻+Code+Daily+%7C+Learn+Continuously;🌟+Building+the+Future+One+Commit+at+a+Time" alt="Stats Footer" />
 </div>
 
 ---
