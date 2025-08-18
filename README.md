@@ -150,8 +150,8 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
   </div>
 </div>
 
-<br>
 ---
+
 <!-- Trophies Card -->
 <div align="center">
   <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
@@ -160,7 +160,8 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
   </div>
 </div>
 
-<br>
+
+---
 
 <!-- Activity Graph Card -->
 <div align="center">
