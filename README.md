@@ -156,7 +156,7 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 <div align="center">
   <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
     <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🏆 GitHub Achievements</h4>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
   </div>
 </div>
 
