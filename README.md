@@ -142,32 +142,23 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 <br>
 
-<!-- Contribution Streak Section -->
-<h4 align="center">🔥 Contribution Streak</h4>
+<!-- Streak Stats Card -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🔥 Contribution Streak</h4>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=00000000&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&border_radius=10" alt="GitHub Streak" />
+  </div>
+</div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=00000000&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&border_radius=10" alt="Streak Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&title_color=00D8FF&icon_color=00D8FF" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Fdo&layout=compact&theme=github_dark&hide_border=true&border_radius=10&title_color=00D8FF" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<br>
 
----
-
-<!-- GitHub Achievements Section -->
-<h4 align="center">🏆 GitHub Achievements</h4>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies"/>
-</p>
-
+<!-- Trophies Card -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🏆 GitHub Achievements</h4>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4" alt="GitHub Trophies" />
+  </div>
+</div>
 
 <br>
 
