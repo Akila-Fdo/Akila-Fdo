@@ -114,31 +114,64 @@ Passionate about leveraging <strong style="color: #00D8FF;">computer science</st
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Fdo&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Analytics;🚀+My+Coding+Journey" alt="GitHub Stats Title" />
 </div>
 
+<br>
+
+<!-- Main Stats Cards Row -->
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" alt="GitHub Streak" />
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td style="border: none; width: 50%; padding: 10px;">
+        <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 15px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2);">
+          <h4 align="center" style="color: #00D8FF; margin: 0 0 10px 0;">⚡ GitHub Statistics</h4>
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Akila-Fdo&show_icons=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=c9d1d9&bg_color=00000000&border_radius=10" alt="GitHub Stats" />
+        </div>
+      </td>
+      <td style="border: none; width: 50%; padding: 10px;">
+        <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 15px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2);">
+          <h4 align="center" style="color: #00D8FF; margin: 0 0 10px 0;">🔥 Top Languages</h4>
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Fdo&layout=compact&hide_border=true&title_color=00D8FF&text_color=c9d1d9&bg_color=00000000&border_radius=10&langs_count=8" alt="Top Languages" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
-
+<!-- Streak Stats Card -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🔥 Contribution Streak</h4>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akila-Fdo&theme=github-dark-blue&hide_border=true&stroke=0d1117&background=00000000&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&border_radius=10" alt="GitHub Streak" />
+  </div>
 </div>
 
----
+<br>
 
-## 📈 Activity Graph
-
+<!-- Trophies Card -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akila-Fdo&bg_color=0d1117&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">🏆 GitHub Achievements</h4>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akila-Fdo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </div>
+</div>
+
+<br>
+
+<!-- Activity Graph Card -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, #161b22 0%, #0d1117 100%); border: 2px solid #00D8FF; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0, 216, 255, 0.2); width: 90%; max-width: 900px;">
+    <h4 align="center" style="color: #00D8FF; margin: 0 0 15px 0;">📈 Contribution Activity</h4>
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akila-Fdo&bg_color=00000000&color=00D8FF&line=00D8FF&point=ffffff&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
+  </div>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=💻+Code+Daily+%7C+Learn+Continuously;🌟+Building+the+Future+One+Commit+at+a+Time" alt="Stats Footer" />
 </div>
 
 ---
